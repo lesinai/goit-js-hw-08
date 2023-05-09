@@ -1,5 +1,5 @@
 import throttle from 'lodash.throttle';
-
+import storeService from './json.js';
 
 const formRef = document.querySelector('.feedback-form');
 
